@@ -36,6 +36,6 @@ Thread2()
     
 		// damos acceso al otro thread 
 		threadnumber = 1; 
-		// seccion restante
+		// seccion restante 
 	} while (completed == false) 
 } 
