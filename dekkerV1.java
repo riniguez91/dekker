@@ -32,7 +32,7 @@ Thread2()
 			; 
 		// seccion critica 
     
-		// seccion de salida 
+		// sección de salida 
     
 		// damos acceso al otro thread 
 		threadnumber = 1; 
