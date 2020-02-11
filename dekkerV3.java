@@ -21,7 +21,6 @@ Thread1()
 		// indica que thread1 se ha completado
 		// es sección crítica
 		thread1wantstoenter = false; 
-
 		// sección resatnte
 
 	} while (completed == false) 
@@ -41,7 +40,6 @@ Thread2()
 		// indica que thread2 se ha completado
 		// es sección crítica
 		thread2wantstoenter = false; 
-
 		// sección restante
 
 	} while (completed == false) 
