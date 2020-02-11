@@ -7,7 +7,7 @@ public static void main(String[] args)
 Thread1() 
 { 
 	do { 
-		// seccion de entrada 
+		// seccion de entrada  
     
 		// espera hasta que threadnumber sea 1
 		while (threadnumber == 2) 
