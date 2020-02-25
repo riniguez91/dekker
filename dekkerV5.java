@@ -64,3 +64,4 @@ Thread2()
 		// seccion para recordar
 	} while (completed == false) 
 } 
+//Checked
